@@ -14,64 +14,85 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ljy969" alt="visitors"/>   
 </p>
 
-
 <!--   my-header-img -->
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
 
 ## 我是 MOX
 
 > 一名高一学生
 
-### 🛠️ 技术栈
+### 技术栈
 
-- **编程语言:** Python, HTML, Go
-- **操作系统:** Linux
-- **发展方向:** 前端开发、脚本开发
-- **学习方式:** 自学成才
-
-### 👤 关于我
-
-持续探索各类前沿技术，不断积累编程实战经验。
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT)&nbsp; ![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV)&nbsp; ![Deepseek](https://img.shields.io/badge/-Deepseek-444444?style=flat&logo=Deepseek)&nbsp;![Qwen](https://img.shields.io/badge/-Qwen-444444?style=flat&logo=Qwen)&nbsp;![Kimi](https://img.shields.io/badge/-Kimi-444444?style=flat&logo=Kimi)&nbsp;![claude](https://img.shields.io/badge/-claude-444444?style=flat&logo=claude)&nbsp;![Gemini](https://img.shields.io/badge/-Gemini-444444?style=flat&logo=Gemini)&nbsp;
 
 
+### 关于我
 
-<!--   my-skils -->
+持续探索各种技术，积累编程经验。
 
-| 分类 | 技能详情 |
-| :--- | :--- |
-| **语言 / IDE** | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html&logoColor=white) |
-| **领域知识** | [![机器学习](https://img.shields.io/badge/-机器学习-01D277?style=flat&logoColor=white)](https://github.com/ljy969/ljy969) [![计算机科学](https://img.shields.io/badge/-计算机科学-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3Aljy969&type=Repositories) [![电气工程](https://img.shields.io/badge/-电气工程-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3Aljy969&type=Repositories) [![软件开发](https://img.shields.io/badge/-软件开发-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Aljy969&type=Repositories) |
-| **CI / CD** | [![Markdown](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb) ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github) [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) [![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com) |
-| **数据库** | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL) ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite) |
-| **机器学习 / 深度学习框架** | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=jupyter&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT) ![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV) ![Deepseek](https://img.shields.io/badge/-Deepseek-444444?style=flat&logo=Deepseek) ![Qwen](https://img.shields.io/badge/-Qwen-444444?style=flat&logo=Qwen) ![Kimi](https://img.shields.io/badge/-Kimi-444444?style=flat&logo=Kimi) ![Claude](https://img.shields.io/badge/-Claude-444444?style=flat&logo=claude) ![Gemini](https://img.shields.io/badge/-Gemini-444444?style=flat&logo=Gemini) |
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ljy969&theme=cobalt&hide_border=&locale=zh_Hans&short_numbers=)](https://git.io/streak-stats)
+# GitHub 统计：
+![](https://github-readme-stats.shion.dev/api?username=ljy969&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&locale=cn)<br/>
+[![GitHub 连续贡献](https://github-readme-streak-stats.herokuapp.com?user=ljy969&theme=cobalt&hide_border=&locale=zh_Hans&short_numbers=)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ljy969&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact&locale=cn)
 
-<!--   machine-learning -->
+
+
+<!--   skyline 
+<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
+-->
+
+
+
+
+
+
+
+
+
+   <!--machine-learning-->
 ```mermaid
 graph TD;
-    机器学习-->数据;
-    机器学习-->算法;
-    机器学习-->统计模型;
-    机器学习-->特征工程;
-    机器学习-->评估指标;
-    机器学习-->模型部署;
-```
+    machine-learning-->Data;
+    machine-learning-->Algorithms;
+    machine-learning-->Statistical-Models;
+    machine-learning-->Feature-Engineering;
+    machine-learning-->Evaluation-Metrics;
+    machine-learning-->Deployment;
+   ```
+   
 
-#### 感谢您的访问 :heart:
 
-## ⭐ Star 历史
+#### 感谢访问 :heart:
 
-[![Star History Chart](https://api.star-history.com/chart?repos=ljy969/ljy969&type=timeline&logscale&legend=top-left)](https://www.star-history.com/?repos=ljy969%2Fljy969&type=timeline&logscale=&legend=top-left)
 
-[MIT 许可证](LICENSE)
+
+
+## Star 历史
+
+[![Star History Chart](https://api.star-history.com/chart?repos=ljy969/ljy969&type=timeline&logscale&legend=top-left&sealed_token=cSx_X43icNyXeFbXBNcI9IGvngNdL4gZD1ilM97gvlIGA0N9Wu-6EriKK2iseVQpxVrHmXSaWFaEXLXnLRUuguyxY0-Xfgsj4N59--J8a0kH8wo5GRaVsQ)](https://www.star-history.com/?repos=ljy969%2Fljy969&type=timeline&logscale=&legend=top-left)
+
+## GitHub 奖杯
+![](https://github-profile-trophy.vercel.app/?username=ljy969&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 随机开发者名言
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 贡献最多的仓库
+![](https://github-contributor-stats.vercel.app/api?username=ljy969&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=ljy969&icon=10&color=0)](https://visitcount.itsvg.in)
+
+[MIT](LICENSE)
+
 
 </p>
 
 ---
-*如果您喜欢我的个人主页，欢迎 Star ⭐ 本仓库；如需使用此模板，请 Fork 后自行修改。*
+  *如果你喜欢我的主页，可以点个 Star ⭐ 支持一下；如果你想使用这个模板，可以 Fork 后自行使用。* 
 ---
 
 ![](assets/Bottom_down.svg)
-
