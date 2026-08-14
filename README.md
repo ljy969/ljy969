@@ -76,6 +76,17 @@ graph TD;
 
 [![Star History Chart](https://api.star-history.com/chart?repos=ljy969/ljy969&type=timeline&logscale&legend=top-left&sealed_token=cSx_X43icNyXeFbXBNcI9IGvngNdL4gZD1ilM97gvlIGA0N9Wu-6EriKK2iseVQpxVrHmXSaWFaEXLXnLRUuguyxY0-Xfgsj4N59--J8a0kH8wo5GRaVsQ)](https://www.star-history.com/?repos=ljy969%2Fljy969&type=timeline&logscale=&legend=top-left)
 
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ljy969&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ljy969&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=ljy969&icon=10&color=0)](https://visitcount.itsvg.in)
 
 [MIT](LICENSE)
 
