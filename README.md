@@ -72,8 +72,6 @@ graph TD;
 
 ## Star History
 
-## Star History
-
 <a href="https://www.star-history.com/?repos=ljy969%2Fljy969&type=date&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ljy969/ljy969&type=date&theme=dark&legend=top-left&sealed_token=F09m3k1HzbRigxkm0b9OsB4zIfQSoBUM_m4HfMPxwxij1oWXqxnbhPc1ZydjZjjdLcpjt3lgiWQBxH_RIb-Q666QgC_-tmZm3_J9ng09AVI3JtL3fM98ug" />
