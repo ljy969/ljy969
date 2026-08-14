@@ -39,8 +39,6 @@ Keep exploring various technologies and accumulating programming experience.
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ljy969&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
-<!--   grid-snake ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg) -->
-
 
 <!--   skyline 
 <a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
