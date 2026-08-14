@@ -72,7 +72,13 @@ graph TD;
 
 ## Star 历史
 
-[![Star History Chart](https://api.star-history.com/chart?repos=ljy969/ljy969&type=timeline&logscale&legend=top-left&sealed_token=cSx_X43icNyXeFbXBNcI9IGvngNdL4gZD1ilM97gvlIGA0N9Wu-6EriKK2iseVQpxVrHmXSaWFaEXLXnLRUuguyxY0-Xfgsj4N59--J8a0kH8wo5GRaVsQ)](https://www.star-history.com/?repos=ljy969%2Fljy969&type=timeline&logscale=&legend=top-left)
+<a href="https://www.star-history.com/?repos=ljy969%2Fljy969&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ljy969/ljy969&type=date&theme=dark&legend=top-left&sealed_token=F09m3k1HzbRigxkm0b9OsB4zIfQSoBUM_m4HfMPxwxij1oWXqxnbhPc1ZydjZjjdLcpjt3lgiWQBxH_RIb-Q666QgC_-tmZm3_J9ng09AVI3JtL3fM98ug" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ljy969/ljy969&type=date&legend=top-left&sealed_token=F09m3k1HzbRigxkm0b9OsB4zIfQSoBUM_m4HfMPxwxij1oWXqxnbhPc1ZydjZjjdLcpjt3lgiWQBxH_RIb-Q666QgC_-tmZm3_J9ng09AVI3JtL3fM98ug" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ljy969/ljy969&type=date&legend=top-left&sealed_token=F09m3k1HzbRigxkm0b9OsB4zIfQSoBUM_m4HfMPxwxij1oWXqxnbhPc1ZydjZjjdLcpjt3lgiWQBxH_RIb-Q666QgC_-tmZm3_J9ng09AVI3JtL3fM98ug" />
+ </picture>
+</a>
 
 ## GitHub 奖杯
 ![](https://github-profile-trophy.vercel.app/?username=ljy969&theme=radical&no-frame=false&no-bg=false&margin-w=4)
