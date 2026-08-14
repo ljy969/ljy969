@@ -35,7 +35,7 @@ Keep exploring various technologies and accumulating programming experience.
 
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ljy969&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ljy969&theme=dracula&hide_border=true)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ljy969&theme=cobalt&hide_border=&locale=en&short_numbers=)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ljy969&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
