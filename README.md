@@ -4,6 +4,13 @@
 
 ![](assets/Bottom_up.svg)
 
+<a href="https://www.gitascii.com/">
+  <img
+    src="https://www.gitascii.com/api/ljy969?v=1786067911638"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/ljy969/ljy969"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
