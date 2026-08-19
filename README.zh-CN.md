@@ -76,11 +76,11 @@ graph TD;
 
 ## Star 历史
 
-<a href="https://www.star-history.com/?repos=ljy969%2Fljy969%2Cljy969%2FStock-simulator%2Cljy969%2FSimple_Russian_Roulette%2Cljy969%2FCloudflare-request-viewing%2Cljy969%2Ftor-bridge-connectivity-tester&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=ljy969%2FDEAL-OR-NO-DEAL%2Cljy969%2Fljy969%2Cljy969%2FStock-simulator%2Cljy969%2FSimple_Russian_Roulette%2Cljy969%2FCloudflare-request-viewing%2Cljy969%2Ftor-bridge-connectivity-tester&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&theme=dark&legend=top-left&sealed_token=RFtE9sMl-Gnq4JajuGxdJFpiQje1TnD5cActf8poqw6OLHg8Tri0QQdKlnwNG1ceuQNg9dYqh4YPEx-z7knxga-uy6yo0_0XX3lAG_yuGS4q8PysikmuzA" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&legend=top-left&sealed_token=RFtE9sMl-Gnq4JajuGxdJFpiQje1TnD5cActf8poqw6OLHg8Tri0QQdKlnwNG1ceuQNg9dYqh4YPEx-z7knxga-uy6yo0_0XX3lAG_yuGS4q8PysikmuzA" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&legend=top-left&sealed_token=RFtE9sMl-Gnq4JajuGxdJFpiQje1TnD5cActf8poqw6OLHg8Tri0QQdKlnwNG1ceuQNg9dYqh4YPEx-z7knxga-uy6yo0_0XX3lAG_yuGS4q8PysikmuzA" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ljy969/DEAL-OR-NO-DEAL%2Cljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&theme=dark&legend=top-left&sealed_token=5GNAyxTEetGa72R9LxniYKEHindie48nTMgcW7XXpEeK2N1FMOxe-pVePdNt4u1IS3S--bX-M1pk4J4Mo7zO16jD_0ZQ1-bCfSSF71gWj1rUjp98U0Rheg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ljy969/DEAL-OR-NO-DEAL%2Cljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&legend=top-left&sealed_token=5GNAyxTEetGa72R9LxniYKEHindie48nTMgcW7XXpEeK2N1FMOxe-pVePdNt4u1IS3S--bX-M1pk4J4Mo7zO16jD_0ZQ1-bCfSSF71gWj1rUjp98U0Rheg" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ljy969/DEAL-OR-NO-DEAL%2Cljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&legend=top-left&sealed_token=5GNAyxTEetGa72R9LxniYKEHindie48nTMgcW7XXpEeK2N1FMOxe-pVePdNt4u1IS3S--bX-M1pk4J4Mo7zO16jD_0ZQ1-bCfSSF71gWj1rUjp98U0Rheg" />
  </picture>
 </a>
 
