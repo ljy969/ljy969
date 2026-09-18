@@ -16,7 +16,7 @@
 
 <a href="https://www.gitascii.com/">
   <img
-    src="https://www.gitascii.com/api/ljy969?v=1786067911638"
+    src="https://www.gitascii.com/api/ljy969?v=1786067912638"
     alt="GitAscii Widget"
     width="100%"
   />
