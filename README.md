@@ -15,11 +15,6 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ljy969" alt="visitors"/>   
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ljy969/ljy969/gitascii/profiles/default/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ljy969/ljy969/gitascii/profiles/default/light.svg">
-  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/ljy969/ljy969/gitascii/profiles/default/dark.svg" width="100%">
-</picture>
 
 ## I'm MOX
 
