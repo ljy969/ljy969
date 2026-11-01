@@ -1,102 +1,199 @@
+<!-- ============================================================
+     MOX · ljy969 — profile README
+     Design language: warm paper, terracotta accents, quiet serif.
+     Every section header / banner / chip strip is a local SVG in
+     assets/claude/ and follows GitHub's dark / light scheme via
+     <picture> media queries.
+     ============================================================ -->
+
 <p align="center">
-  <strong>English</strong> | <a href="README.zh-CN.md">中文</a>
+  <sub><strong>English</strong> · <a href="README.zh-CN.md">中文</a></sub>
 </p>
 
-![](assets/Bottom_up.svg)
-
-
-<!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/ljy969/ljy969"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/ljy969/ljy969/graphs/contributors"><img src="https://img.shields.io/github/contributors/ljy969/ljy969?color=blue"></a>
-    <a href="https://github.com/ljy969/ljy969/stargazers"><img src="https://img.shields.io/github/stars/ljy969/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/ljy969/ljy969/network/members"><img src="https://img.shields.io/github/forks/ljy969/BEPb.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ljy969" alt="visitors"/>   
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/claude/banner-en-dark.svg" />
+    <img src="assets/claude/banner-en-light.svg" alt="MOX — GitHub profile" />
+  </picture>
 </p>
 
+<!-- 01 · about -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/claude/h-about-en-dark.svg" />
+  <img src="assets/claude/h-about-en-light.svg" alt="About" />
+</picture>
 
-## I'm MOX
+> Hi, I'm **MOX** — a high school freshman. I keep exploring various technologies and accumulating programming experience, mostly by building small, zero-dependency things that run anywhere: offline-first web apps, network utilities, and little browser games.
 
-> A high school freshman
+<!-- 02 · tech stack -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/claude/h-tech-en-dark.svg" />
+  <img src="assets/claude/h-tech-en-light.svg" alt="Tech Stack" />
+</picture>
 
-### Tech Stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/claude/tech-en-dark.svg" />
+  <img src="assets/claude/tech-en-light.svg" alt="tech stack chips" />
+</picture>
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT)&nbsp; ![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV)&nbsp; ![Deepseek](https://img.shields.io/badge/-Deepseek-444444?style=flat&logo=Deepseek)&nbsp;![Qwen](https://img.shields.io/badge/-Qwen-444444?style=flat&logo=Qwen)&nbsp;![Kimi](https://img.shields.io/badge/-Kimi-444444?style=flat&logo=Kimi)&nbsp;![claude](https://img.shields.io/badge/-claude-444444?style=flat&logo=claude)&nbsp;![Gemini](https://img.shields.io/badge/-Gemini-444444?style=flat&logo=Gemini)&nbsp;
+<!-- 03 · featured projects -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/claude/h-projects-en-dark.svg" />
+  <img src="assets/claude/h-projects-en-light.svg" alt="Featured Projects" />
+</picture>
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-### About Me
+**[`Stock-simulator`](https://github.com/ljy969/Stock-simulator)** · `JavaScript` · ★ 96
 
-Keep exploring various technologies and accumulating programming experience.
+A stress-free A-share stock trading simulator — all market data is generated and stored locally in the browser. Learn the rules, feel the swings, test strategies, zero risk.
 
+`stock-simulator` `trading` `local-first`
 
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ljy969&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ljy969&theme=cobalt&hide_border=&locale=en&short_numbers=)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ljy969&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+    </td>
+    <td width="50%" valign="top">
 
+**[`Virtual-Identity-Generator`](https://github.com/ljy969/Virtual-Identity-Generator)** · `JavaScript` · ★ 11
 
+A fully offline, zero-dependency web app that generates realistic synthetic identities for multiple countries and regions — no network requests, ever.
 
-<!--   skyline 
-<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
+`offline` `privacy` `vanilla-js` `i18n`
 
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
+**[`DEAL-OR-NO-DEAL`](https://github.com/ljy969/DEAL-OR-NO-DEAL)** · `JavaScript` · ★ 9
 
+A vanilla US *Deal or No Deal* clone — instant play, zero deps, no build, `file://` ready, bilingual, dark mode.
 
+`browser-game` `vanilla-js` `web-audio`
 
+    </td>
+    <td width="50%" valign="top">
 
+**[`tor-bridge-connectivity-tester`](https://github.com/ljy969/tor-bridge-connectivity-tester)** · `Go` · ★ 1
 
+High-performance Tor bridge connectivity tester — auto-detects webtunnel / obfs4 / none transports, configurable concurrency, JSON / TXT / CSV export.
 
+`tor` `webtunnel` `go`
 
-   <!--machine-learning-->
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-   ```
-   
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
+**[`Simple_Russian_Roulette`](https://github.com/ljy969/Simple_Russian_Roulette)** · `HTML` · ★ 1
 
+A single-file browser Russian-roulette sim in pure HTML / CSS / JS — configurable cylinder, theme switching, sound feedback.
 
+`single-file` `browser-game`
 
+    </td>
+    <td width="50%" valign="top">
 
+**[`Cloudflare-request-viewing`](https://github.com/ljy969/Cloudflare-request-viewing)** · `JavaScript`
 
+Track and visualize your Cloudflare usage — multi-account, auto-collection, light / dark themes, data stored locally only, Workers / Pages ready.
 
-## Star History
+`cloudflare` `workers` `local-first`
 
-<a href="https://www.star-history.com/?repos=ljy969%2FVirtual-Identity-Generator%2Cljy969%2FDEAL-OR-NO-DEAL%2Cljy969%2Fljy969%2Cljy969%2FStock-simulator%2Cljy969%2FSimple_Russian_Roulette%2Cljy969%2FCloudflare-request-viewing%2Cljy969%2Ftor-bridge-connectivity-tester&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ljy969/Virtual-Identity-Generator%2Cljy969/DEAL-OR-NO-DEAL%2Cljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&theme=dark&legend=top-left&sealed_token=8D7wUQSztUG6-YDftwbuSOCN7sQKb4iQMRxzEvw4cVTgizA6GKtRqwclXmhpVCjO3vTcTlVYf_T1r_yGxjP_MQ7AzcCOct37x6Tv6R_tkkQdWct6IuyD6w" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ljy969/Virtual-Identity-Generator%2Cljy969/DEAL-OR-NO-DEAL%2Cljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&legend=top-left&sealed_token=8D7wUQSztUG6-YDftwbuSOCN7sQKb4iQMRxzEvw4cVTgizA6GKtRqwclXmhpVCjO3vTcTlVYf_T1r_yGxjP_MQ7AzcCOct37x6Tv6R_tkkQdWct6IuyD6w" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ljy969/Virtual-Identity-Generator%2Cljy969/DEAL-OR-NO-DEAL%2Cljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&legend=top-left&sealed_token=8D7wUQSztUG6-YDftwbuSOCN7sQKb4iQMRxzEvw4cVTgizA6GKtRqwclXmhpVCjO3vTcTlVYf_T1r_yGxjP_MQ7AzcCOct37x6Tv6R_tkkQdWct6IuyD6w" />
- </picture>
-</a>
+    </td>
+  </tr>
+</table>
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ljy969&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- 04 · github stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/claude/h-stats-en-dark.svg" />
+  <img src="assets/claude/h-stats-en-light.svg" alt="GitHub Stats" />
+</picture>
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<table>
+  <tr>
+    <td width="55%" valign="top" align="center">
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ljy969&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=ljy969&show_icons=true&include_all_commits=true&count_private=false&bg_color=1B1A17&title_color=F2EFE7&text_color=C9C5B8&icon_color=D97757&border_color=36342E" />
+  <img src="https://github-readme-stats.shion.dev/api?username=ljy969&show_icons=true&include_all_commits=true&count_private=false&bg_color=F7F4EC&title_color=1F1E1D&text_color=3D3929&icon_color=C96442&border_color=D9D2C2" alt="MOX's GitHub stats" />
+</picture>
 
----
-[![](https://komarev.com/ghpvc/?username=ljy969&icon=10&color=0)](https://visitcount.itsvg.in)
-#### Thanks for visiting :heart:
+    </td>
+    <td width="45%" valign="top" align="center">
 
-[MIT](LICENSE)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=ljy969&layout=compact&include_all_commits=true&count_private=false&bg_color=1B1A17&title_color=F2EFE7&text_color=C9C5B8&border_color=36342E" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ljy969&layout=compact&include_all_commits=true&count_private=false&bg_color=F7F4EC&title_color=1F1E1D&text_color=3D3929&border_color=D9D2C2" alt="top languages" />
+</picture>
 
+    </td>
+  </tr>
+</table>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ljy969&background=1B1A17&border=36342E&stroke=36342E&ring=D97757&fire=D97757&currStreakNum=F2EFE7&sideNums=C9C5B8&currStreakLabel=D97757&sideLabels=8B877C&dates=8B877C&short_numbers=true" />
+    <img src="https://streak-stats.demolab.com/?user=ljy969&background=F7F4EC&border=D9D2C2&stroke=D9D2C2&ring=C96442&fire=C96442&currStreakNum=1F1E1D&sideNums=3D3929&currStreakLabel=C96442&sideLabels=8A8577&dates=8A8577&short_numbers=true" alt="GitHub streak" />
+  </picture>
 </p>
 
----
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
----
+<!-- 05 · contribution graph (snake, regenerated daily by .github/workflows/snake.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/claude/h-contrib-en-dark.svg" />
+  <img src="assets/claude/h-contrib-en-light.svg" alt="Contribution Graph" />
+</picture>
 
-![](assets/Bottom_down.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/claude/snake-dark.svg" />
+    <img src="assets/claude/snake-light.svg" alt="contribution snake" />
+  </picture>
+</p>
+
+<!-- 06 · star history -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/claude/h-stars-en-dark.svg" />
+  <img src="assets/claude/h-stars-en-light.svg" alt="Star History" />
+</picture>
+
+<p align="center">
+  <a href="https://www.star-history.com/?repos=ljy969%2FVirtual-Identity-Generator%2Cljy969%2FDEAL-OR-NO-DEAL%2Cljy969%2Fljy969%2Cljy969%2FStock-simulator%2Cljy969%2FSimple_Russian_Roulette%2Cljy969%2FCloudflare-request-viewing%2Cljy969%2Ftor-bridge-connectivity-tester&type=date&legend=top-left">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ljy969/Virtual-Identity-Generator%2Cljy969/DEAL-OR-NO-DEAL%2Cljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&theme=dark&legend=top-left&sealed_token=8D7wUQSztUG6-YDftwbuSOCN7sQKb4iQMRxzEvw4cVTgizA6GKtRqwclXmhpVCjO3vTcTlVYf_T1r_yGxjP_MQ7AzcCOct37x6Tv6R_tkkQdWct6IuyD6w" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ljy969/Virtual-Identity-Generator%2Cljy969/DEAL-OR-NO-DEAL%2Cljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&legend=top-left&sealed_token=8D7wUQSztUG6-YDftwbuSOCN7sQKb4iQMRxzEvw4cVTgizA6GKtRqwclXmhpVCjO3vTcTlVYf_T1r_yGxjP_MQ7AzcCOct37x6Tv6R_tkkQdWct6IuyD6w" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ljy969/Virtual-Identity-Generator%2Cljy969/DEAL-OR-NO-DEAL%2Cljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&legend=top-left&sealed_token=8D7wUQSztUG6-YDftwbuSOCN7sQKb4iQMRxzEvw4cVTgizA6GKtRqwclXmhpVCjO3vTcTlVYf_T1r_yGxjP_MQ7AzcCOct37x6Tv6R_tkkQdWct6IuyD6w" />
+    </picture>
+  </a>
+</p>
+
+<!-- 07 · trophies -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/claude/h-trophy-en-dark.svg" />
+  <img src="assets/claude/h-trophy-en-light.svg" alt="Trophies" />
+</picture>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ljy969&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ljy969&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
+  </picture>
+</p>
+
+<!-- footer -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/claude/divider-dark.svg" />
+  <img src="assets/claude/divider-light.svg" alt="" />
+</picture>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/claude/footer-en-dark.svg" />
+    <img src="assets/claude/footer-en-light.svg" alt="Thanks for visiting" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>If you like this profile, you can <a href="https://github.com/ljy969/ljy969">Star the repo</a> — fork it freely if you want this look for your own page. · <a href="LICENSE">MIT</a></sub>
+</p>
