@@ -42,9 +42,12 @@
   <img src="assets/claude/h-projects-en-light.svg" alt="Featured Projects" />
 </picture>
 
+<!-- GitHub Markdown rule: every HTML tag line that follows a blank line must sit
+     flush-left. A tag indented 4+ spaces after a blank line is parsed as an
+     indented code block and leaks as visible text on github.com. -->
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 **[`Stock-simulator`](https://github.com/ljy969/Stock-simulator)** · `JavaScript` · ★ 96
 
@@ -52,8 +55,8 @@ A stress-free A-share stock trading simulator — all market data is generated a
 
 `stock-simulator` `trading` `local-first`
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 **[`Virtual-Identity-Generator`](https://github.com/ljy969/Virtual-Identity-Generator)** · `JavaScript` · ★ 11
 
@@ -61,10 +64,10 @@ A fully offline, zero-dependency web app that generates realistic synthetic iden
 
 `offline` `privacy` `vanilla-js` `i18n`
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **[`DEAL-OR-NO-DEAL`](https://github.com/ljy969/DEAL-OR-NO-DEAL)** · `JavaScript` · ★ 9
 
@@ -72,8 +75,8 @@ A vanilla US *Deal or No Deal* clone — instant play, zero deps, no build, `fil
 
 `browser-game` `vanilla-js` `web-audio`
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 **[`tor-bridge-connectivity-tester`](https://github.com/ljy969/tor-bridge-connectivity-tester)** · `Go` · ★ 1
 
@@ -81,10 +84,10 @@ High-performance Tor bridge connectivity tester — auto-detects webtunnel / obf
 
 `tor` `webtunnel` `go`
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **[`Simple_Russian_Roulette`](https://github.com/ljy969/Simple_Russian_Roulette)** · `HTML` · ★ 1
 
@@ -92,8 +95,8 @@ A single-file browser Russian-roulette sim in pure HTML / CSS / JS — configura
 
 `single-file` `browser-game`
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 **[`Cloudflare-request-viewing`](https://github.com/ljy969/Cloudflare-request-viewing)** · `JavaScript`
 
@@ -101,8 +104,8 @@ Track and visualize your Cloudflare usage — multi-account, auto-collection, li
 
 `cloudflare` `workers` `local-first`
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <!-- 04 · github stats -->
@@ -112,24 +115,24 @@ Track and visualize your Cloudflare usage — multi-account, auto-collection, li
 </picture>
 
 <table>
-  <tr>
-    <td width="55%" valign="top" align="center">
+<tr>
+<td width="55%" valign="top" align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=ljy969&show_icons=true&include_all_commits=true&count_private=false&bg_color=1B1A17&title_color=F2EFE7&text_color=C9C5B8&icon_color=D97757&border_color=36342E" />
   <img src="https://github-readme-stats.shion.dev/api?username=ljy969&show_icons=true&include_all_commits=true&count_private=false&bg_color=F7F4EC&title_color=1F1E1D&text_color=3D3929&icon_color=C96442&border_color=D9D2C2" alt="MOX's GitHub stats" />
 </picture>
 
-    </td>
-    <td width="45%" valign="top" align="center">
+</td>
+<td width="45%" valign="top" align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=ljy969&layout=compact&include_all_commits=true&count_private=false&bg_color=1B1A17&title_color=F2EFE7&text_color=C9C5B8&border_color=36342E" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ljy969&layout=compact&include_all_commits=true&count_private=false&bg_color=F7F4EC&title_color=1F1E1D&text_color=3D3929&border_color=D9D2C2" alt="top languages" />
 </picture>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -161,9 +164,9 @@ Track and visualize your Cloudflare usage — multi-account, auto-collection, li
 <p align="center">
   <a href="https://www.star-history.com/?repos=ljy969%2FVirtual-Identity-Generator%2Cljy969%2FDEAL-OR-NO-DEAL%2Cljy969%2Fljy969%2Cljy969%2FStock-simulator%2Cljy969%2FSimple_Russian_Roulette%2Cljy969%2FCloudflare-request-viewing%2Cljy969%2Ftor-bridge-connectivity-tester&type=date&legend=top-left">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ljy969/Virtual-Identity-Generator%2Cljy969/DEAL-OR-NO-DEAL%2Cljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&theme=dark&legend=top-left&sealed_token=8D7wUQSztUG6-YDftwbuSOCN7sQKb4iQMRxzEvw4cVTgizA6GKtRqwclXmhpVCjO3vTcTlVYf_T1r_yGxjP_MQ7AzcCOct37x6Tv6R_tkkQdWct6IuyD6w" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ljy969/Virtual-Identity-Generator%2Cljy969/DEAL-OR-NO-DEAL%2Cljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&legend=top-left&sealed_token=8D7wUQSztUG6-YDftwbuSOCN7sQKb4iQMRxzEvw4cVTgizA6GKtRqwclXmhpVCjO3vTcTlVYf_T1r_yGxjP_MQ7AzcCOct37x6Tv6R_tkkQdWct6IuyD6w" />
-      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ljy969/Virtual-Identity-Generator%2Cljy969/DEAL-OR-NO-DEAL%2Cljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&legend=top-left&sealed_token=8D7wUQSztUG6-YDftwbuSOCN7sQKb4iQMRxzEvw4cVTgizA6GKtRqwclXmhpVCjO3vTcTlVYf_T1r_yGxjP_MQ7AzcCOct37x6Tv6R_tkkQdWct6IuyD6w" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ljy969/Virtual-Identity-Generator%2Cljy969/DEAL-OR-NO-DEAL%2Cljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&theme=dark&legend=top-left" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ljy969/Virtual-Identity-Generator%2Cljy969/DEAL-OR-NO-DEAL%2Cljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&legend=top-left" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ljy969/Virtual-Identity-Generator%2Cljy969/DEAL-OR-NO-DEAL%2Cljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&legend=top-left" />
     </picture>
   </a>
 </p>
@@ -174,10 +177,15 @@ Track and visualize your Cloudflare usage — multi-account, auto-collection, li
   <img src="assets/claude/h-trophy-en-light.svg" alt="Trophies" />
 </picture>
 
+<!-- The official github-profile-trophy.vercel.app instance is disabled at the
+     host (HTTP 402 DEPLOYMENT_DISABLED), so the community mirror
+     github-trophies.vercel.app is used instead. If this mirror ever goes down,
+     swap in another load-balancing endpoint from the trophy README:
+     github-profile-trophy-unserori.vercel.app / github-trophy-jagratadeb.vercel.app -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ljy969&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
-    <img src="https://github-profile-trophy.vercel.app/?username=ljy969&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=ljy969&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
+    <img src="https://github-trophies.vercel.app/?username=ljy969&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
   </picture>
 </p>
 

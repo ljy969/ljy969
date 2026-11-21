@@ -41,9 +41,12 @@
   <img src="assets/claude/h-projects-zh-light.svg" alt="精选项目" />
 </picture>
 
+<!-- GitHub Markdown 规则：空行之后的 HTML 标签行必须顶格书写。
+     若在空行后缩进 4 个以上空格，解析器会把它当作缩进代码块，
+     原始标签就会以可见文本形式泄漏到页面上。 -->
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 **[`Stock-simulator`](https://github.com/ljy969/Stock-simulator)** · `JavaScript` · ★ 96
 
@@ -51,8 +54,8 @@
 
 `stock-simulator` `trading` `local-first`
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 **[`Virtual-Identity-Generator`](https://github.com/ljy969/Virtual-Identity-Generator)** · `JavaScript` · ★ 11
 
@@ -60,10 +63,10 @@
 
 `offline` `privacy` `vanilla-js` `i18n`
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **[`DEAL-OR-NO-DEAL`](https://github.com/ljy969/DEAL-OR-NO-DEAL)** · `JavaScript` · ★ 9
 
@@ -71,8 +74,8 @@
 
 `browser-game` `vanilla-js` `web-audio`
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 **[`tor-bridge-connectivity-tester`](https://github.com/ljy969/tor-bridge-connectivity-tester)** · `Go` · ★ 1
 
@@ -80,10 +83,10 @@
 
 `tor` `webtunnel` `go`
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **[`Simple_Russian_Roulette`](https://github.com/ljy969/Simple_Russian_Roulette)** · `HTML` · ★ 1
 
@@ -91,8 +94,8 @@
 
 `single-file` `browser-game`
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 **[`Cloudflare-request-viewing`](https://github.com/ljy969/Cloudflare-request-viewing)** · `JavaScript`
 
@@ -100,8 +103,8 @@
 
 `cloudflare` `workers` `local-first`
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <!-- 04 · 数据一览 -->
@@ -111,24 +114,24 @@
 </picture>
 
 <table>
-  <tr>
-    <td width="55%" valign="top" align="center">
+<tr>
+<td width="55%" valign="top" align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=ljy969&show_icons=true&include_all_commits=true&count_private=false&bg_color=1B1A17&title_color=F2EFE7&text_color=C9C5B8&icon_color=D97757&border_color=36342E" />
   <img src="https://github-readme-stats.shion.dev/api?username=ljy969&show_icons=true&include_all_commits=true&count_private=false&bg_color=F7F4EC&title_color=1F1E1D&text_color=3D3929&icon_color=C96442&border_color=D9D2C2" alt="MOX 的 GitHub 统计" />
 </picture>
 
-    </td>
-    <td width="45%" valign="top" align="center">
+</td>
+<td width="45%" valign="top" align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=ljy969&layout=compact&include_all_commits=true&count_private=false&bg_color=1B1A17&title_color=F2EFE7&text_color=C9C5B8&border_color=36342E" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ljy969&layout=compact&include_all_commits=true&count_private=false&bg_color=F7F4EC&title_color=1F1E1D&text_color=3D3929&border_color=D9D2C2" alt="常用语言" />
 </picture>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -160,9 +163,9 @@
 <p align="center">
   <a href="https://www.star-history.com/?repos=ljy969%2FVirtual-Identity-Generator%2Cljy969%2FDEAL-OR-NO-DEAL%2Cljy969%2Fljy969%2Cljy969%2FStock-simulator%2Cljy969%2FSimple_Russian_Roulette%2Cljy969%2FCloudflare-request-viewing%2Cljy969%2Ftor-bridge-connectivity-tester&type=date&legend=top-left">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ljy969/Virtual-Identity-Generator%2Cljy969/DEAL-OR-NO-DEAL%2Cljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&theme=dark&legend=top-left&sealed_token=8D7wUQSztUG6-YDftwbuSOCN7sQKb4iQMRxzEvw4cVTgizA6GKtRqwclXmhpVCjO3vTcTlVYf_T1r_yGxjP_MQ7AzcCOct37x6Tv6R_tkkQdWct6IuyD6w" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ljy969/Virtual-Identity-Generator%2Cljy969/DEAL-OR-NO-DEAL%2Cljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&legend=top-left&sealed_token=8D7wUQSztUG6-YDftwbuSOCN7sQKb4iQMRxzEvw4cVTgizA6GKtRqwclXmhpVCjO3vTcTlVYf_T1r_yGxjP_MQ7AzcCOct37x6Tv6R_tkkQdWct6IuyD6w" />
-      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ljy969/Virtual-Identity-Generator%2Cljy969/DEAL-OR-NO-DEAL%2Cljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&legend=top-left&sealed_token=8D7wUQSztUG6-YDftwbuSOCN7sQKb4iQMRxzEvw4cVTgizA6GKtRqwclXmhpVCjO3vTcTlVYf_T1r_yGxjP_MQ7AzcCOct37x6Tv6R_tkkQdWct6IuyD6w" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ljy969/Virtual-Identity-Generator%2Cljy969/DEAL-OR-NO-DEAL%2Cljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&theme=dark&legend=top-left" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ljy969/Virtual-Identity-Generator%2Cljy969/DEAL-OR-NO-DEAL%2Cljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&legend=top-left" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ljy969/Virtual-Identity-Generator%2Cljy969/DEAL-OR-NO-DEAL%2Cljy969/ljy969%2Cljy969/Stock-simulator%2Cljy969/Simple_Russian_Roulette%2Cljy969/Cloudflare-request-viewing%2Cljy969/tor-bridge-connectivity-tester&type=date&legend=top-left" />
     </picture>
   </a>
 </p>
@@ -173,10 +176,15 @@
   <img src="assets/claude/h-trophy-zh-light.svg" alt="里程碑奖杯" />
 </picture>
 
+<!-- 官方实例 github-profile-trophy.vercel.app 已被主机商停用
+     （HTTP 402 DEPLOYMENT_DISABLED），故改用社区镜像
+     github-trophies.vercel.app（见上游 issue #465）。若该镜像日后失效，
+     可换用官方 README 列出的其他负载均衡端点：
+     github-profile-trophy-unserori.vercel.app / github-trophy-jagratadeb.vercel.app -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ljy969&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
-    <img src="https://github-profile-trophy.vercel.app/?username=ljy969&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub 奖杯" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=ljy969&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
+    <img src="https://github-trophies.vercel.app/?username=ljy969&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub 奖杯" />
   </picture>
 </p>
 
