@@ -194,5 +194,5 @@
 </p>
 
 <p align="center">
-  <sub>如果你喜欢这个主页，欢迎 <a href="https://github.com/ljy969/ljy969">点个 Star</a>；想用同款设计也可以直接 Fork。· <a href="LICENSE">MIT</a></sub>
+  <sub>如果你喜欢这个主页，欢迎 <a href="https://github.com/ljy969/ljy969">点个 Star</a>；想用同款设计也可以直接 Fork · <a href="LICENSE">MIT</a></sub>
 </p>

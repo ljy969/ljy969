@@ -195,5 +195,5 @@ Track and visualize your Cloudflare usage — multi-account, auto-collection, li
 </p>
 
 <p align="center">
-  <sub>If you like this profile, you can <a href="https://github.com/ljy969/ljy969">Star the repo</a> — fork it freely if you want this look for your own page. · <a href="LICENSE">MIT</a></sub>
+  <sub>If you like this profile, you can <a href="https://github.com/ljy969/ljy969">Star the repo</a> — fork it freely if you want this look for your own page · <a href="LICENSE">MIT</a></sub>
 </p>

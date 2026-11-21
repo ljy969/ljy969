@@ -7,9 +7,9 @@
 
 1. 解压后把**整个目录**覆盖到你本地 clone 的 `ljy969/ljy969` 仓库（或直接把内容拖进仓库）。
 2. `git add . && git commit -m "redesign: claude-style profile" && git push`
-3. push 之后 `.github/workflows/snake.yml` 会自动跑一次，生成 `assets/claude/snake-light.svg`
-   和 `assets/claude/snake-dark.svg` 并提交回来（约 1 分钟）。首跑之前 README 里的贪吃蛇
-   会显示破图，属正常现象，刷新即可。
+3. 仓库已自带一版静态贪吃蛇占位图（`assets/claude/snake-light.svg` / `snake-dark.svg`），
+   push 后 README 不会出现破图；`.github/workflows/snake.yml` 会在 push 后和每天 UTC 00:23
+   自动用真实贡献数据重新生成这两张动图并提交回来（约 1 分钟）。
    - 若 Actions 没有自动运行：仓库页 → Actions 标签 → 左侧选 "Contribution Snake" →
      Enable workflow / Run workflow。
 
@@ -24,8 +24,10 @@ assets/claude/
   tech-{lang}-{mode}.svg        技术栈徽章条（自制圆角 chips + 真实品牌图标）
   divider-{mode}.svg            页脚前的分隔线
   footer-{lang}-{mode}.svg      页脚致谢卡
-  snake-{light,dark}.svg        贡献贪吃蛇（由 Actions 自动生成，勿手改）
-.github/workflows/snake.yml     贪吃蛇每日自动生成工作流
+  snake-{light,dark}.svg        贡献贪吃蛇（Actions 每日自动重新生成，勿手改；
+                                首版为静态占位图，随首次 Actions 运行替换为动图）
+.github/workflows/snake.yml     贪吃蛇每日自动生成工作流（Platane/snk，
+                                蛇 / 格子颜色在该文件 outputs 两行里改）
 ```
 
 其余原有文件（LICENSE、CODE_OF_CONDUCT.md、CONTRIBUTING.md 等）原样保留。
